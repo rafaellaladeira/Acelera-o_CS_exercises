@@ -1,0 +1,15 @@
+/home/rafaella/Documentos/Aceleracao_C#/Exercicios/Exercicio 2/triangulo/bin/Debug/net6.0/triangulo
+/home/rafaella/Documentos/Aceleracao_C#/Exercicios/Exercicio 2/triangulo/bin/Debug/net6.0/triangulo.deps.json
+/home/rafaella/Documentos/Aceleracao_C#/Exercicios/Exercicio 2/triangulo/bin/Debug/net6.0/triangulo.runtimeconfig.json
+/home/rafaella/Documentos/Aceleracao_C#/Exercicios/Exercicio 2/triangulo/bin/Debug/net6.0/triangulo.dll
+/home/rafaella/Documentos/Aceleracao_C#/Exercicios/Exercicio 2/triangulo/bin/Debug/net6.0/triangulo.pdb
+/home/rafaella/Documentos/Aceleracao_C#/Exercicios/Exercicio 2/triangulo/obj/Debug/net6.0/triangulo.csproj.AssemblyReference.cache
+/home/rafaella/Documentos/Aceleracao_C#/Exercicios/Exercicio 2/triangulo/obj/Debug/net6.0/triangulo.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafaella/Documentos/Aceleracao_C#/Exercicios/Exercicio 2/triangulo/obj/Debug/net6.0/triangulo.AssemblyInfoInputs.cache
+/home/rafaella/Documentos/Aceleracao_C#/Exercicios/Exercicio 2/triangulo/obj/Debug/net6.0/triangulo.AssemblyInfo.cs
+/home/rafaella/Documentos/Aceleracao_C#/Exercicios/Exercicio 2/triangulo/obj/Debug/net6.0/triangulo.csproj.CoreCompileInputs.cache
+/home/rafaella/Documentos/Aceleracao_C#/Exercicios/Exercicio 2/triangulo/obj/Debug/net6.0/triangulo.dll
+/home/rafaella/Documentos/Aceleracao_C#/Exercicios/Exercicio 2/triangulo/obj/Debug/net6.0/refint/triangulo.dll
+/home/rafaella/Documentos/Aceleracao_C#/Exercicios/Exercicio 2/triangulo/obj/Debug/net6.0/triangulo.pdb
+/home/rafaella/Documentos/Aceleracao_C#/Exercicios/Exercicio 2/triangulo/obj/Debug/net6.0/triangulo.genruntimeconfig.cache
+/home/rafaella/Documentos/Aceleracao_C#/Exercicios/Exercicio 2/triangulo/obj/Debug/net6.0/ref/triangulo.dll
